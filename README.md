@@ -33,7 +33,7 @@ This is a Flask-based image processing web application that allows users to uplo
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Sahilkumar1272/Image_editor.git
 2. Install the required dependencies using `pip`.
 
   ```bash
